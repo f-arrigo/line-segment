@@ -1,6 +1,6 @@
 package it.my.linesegment.http.rest;
 
-import it.my.linesegment.application.LineSegmentContainer;
+import it.my.linesegment.logic.LineSegmentContainer;
 import it.my.linesegment.model.Point;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

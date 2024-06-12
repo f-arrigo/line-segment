@@ -1,4 +1,4 @@
-package it.my.linesegment.application;
+package it.my.linesegment.logic;
 
 import it.my.linesegment.model.Point;
 import it.my.linesegment.model.Segment;
